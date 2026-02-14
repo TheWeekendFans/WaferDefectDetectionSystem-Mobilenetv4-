@@ -1,0 +1,39 @@
+# Datasets (Large files)
+*.npz
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+.venv/
+venv/
+env/
+.env
+
+# PyTorch Models & Checkpoints
+*.pth
+*.pt
+checkpoints/
+
+# ONNX & TensorRT
+*.onnx
+*.engine
+*.trt
+
+# IDE Configs
+.vscode/
+.idea/
+*.swp
+
+# Build Artifacts (C++)
+build/
+x64/
+out/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
