@@ -2,6 +2,9 @@
 
 High-performance wafer map defect detection system deployed on Edge GPU, achieving **98.08% Top-1 Accuracy** and **<1ms Inference Latency**.
 
+## Result Show（结果展示）
+<img width="2286" height="948" alt="晶圆缺陷检测随机10张对比图" src="https://github.com/user-attachments/assets/5973e41f-4102-465d-8bb0-1d2223e5f713" />
+
 ## Key Features (核心亮点)
 - **Model**: MobileNetV4 with custom optimizations.
 - **Performance**:
