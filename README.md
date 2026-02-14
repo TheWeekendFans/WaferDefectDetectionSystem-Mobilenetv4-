@@ -10,7 +10,7 @@ High-performance wafer map defect detection system deployed on Edge GPU, achievi
 - **Performance**:
   - **Accuracy**: 98.08% on MixedWM38 dataset (SOTA Level).
   - **Latency**: 0.90ms per image (TensorRT FP16).
-  - **Throughput**: Supports >1000 WPH production lines.
+  - **Throughput**: Supports >120 WPH production lines.
 - **Deployment**: Full C++ Inference Engine with custom CUDA Preprocessing Kernels.
 
 ## Project Structure (项目结构)
